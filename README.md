@@ -6,13 +6,16 @@
   - [Collaborators](#collaborators)
 
 ## 🔍 Description <a name="description"></a>
-<p> This is an ecological game that is a simulator of an ecosystem. </p>
+<p> This is a program which checks if your username and password are stored in a txt file </p>
 
 ## 🚀 How to run <a name="install"></a>
-*The following instructions are going to show you how to set up the project*
+
 ### Installation
+
   1. Clone the repo
-     ### With Visual Studio
+     
+### With Visual Studio
+
   2. Chose 1 to generate files for Visual Studio
   3. Open the solution file with Visual Studio
   4. Compile the project by hitting CTRL + F5 key combination
