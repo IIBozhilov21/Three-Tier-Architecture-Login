@@ -8,7 +8,7 @@
 ## 🔍 Description <a name="description"></a>
 <p> This is a program which checks if your username and password are stored in a txt file </p>
 
-## 🚀 How to run <a name="install"></a>
+## 📂 How to run <a name="install"></a>
 
 ### Installation
 
